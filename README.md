@@ -4,6 +4,6 @@
 http,парсится все при помощи встроенной библиотеки xml.Текущий курс парсится с сайта ЦБРФ.В тестах используется requests.
 
 <h4>Для запуска:</h4>
-1) `pip install -r requirements.txt`
-2) `python3 main.py`
-3) `python3 examples.py`
+`pip install -r requirements.txt`
+<br>`python3 main.py`
+<br> `python3 examples.py`
